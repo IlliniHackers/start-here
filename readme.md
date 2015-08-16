@@ -7,7 +7,7 @@ TBA | TBA
 
 Name | Location | Date | Registration Status 
 ----------|------|--------- | ---
-[PennApps](http://2015f.pennapps.org)  | Philadelphia, PA | September 4th - 6th | CLOSED
+[PennApps](http://2015f.pennapps.com)  | Philadelphia, PA | September 4th - 6th | CLOSED
 [MHacks](http://www.mhacks.org) | Ann Arbor, MA | September 11th - 13th | OPEN 
 [HackTheNorth](http://hackthenorth.com/) | Waterloon, ON, Canada | September 18th - 20th | CLOSED
 [WUHack](http://wuhack.com/) | St. Louis, MO | September 18th - 20th | OPEN
