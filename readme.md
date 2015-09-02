@@ -14,8 +14,8 @@ Name | Location | Date | Registration Status | Facebook Event
 [HackMIT](https://hackmit.org/) | Boston, MA | September 19th - 20th | CLOSED | https://www.facebook.com/events/116546222024063/
 [Huskie Hack](http://www.huskiehack.org/) | Dekalb, IL | September 26th - 27th | OPEN | https://www.facebook.com/events/1640110862872875/
 [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | October 2nd - 4th | OPEN
-[Kent Hack Enough](https://khe.io/) | Kent, OH | October 9th - 11th | OPEN
-[BoilerMake](http://boilermake.org/) | West Lafayette, IN | October 16th - 18th | OPEN
+[Kent Hack Enough](https://khe.io/) | Kent, OH | October 9th - 11th | OPEN | https://www.facebook.com/events/1011331928919767/
+[BoilerMake](http://boilermake.org/) | West Lafayette, IN | October 16th - 18th | OPEN | https://www.facebook.com/events/1668262790086074/
 [OHI/O](http://hack.osu.edu/) | Columbus, OH | November 14 - 15 | OPEN
 [WildHacks](http://wildhacks.org/) | Evanston, IL | November 21st - 22nd | NOT OPEN YET
 
